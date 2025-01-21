@@ -9,18 +9,12 @@ Ensure that the necessary permissions are enabled for screen recording:
 - **Storage Permission** for saving recordings
 
 ## Tech Stack 📚
-
 * [Android Architecture Components](https://developer.android.com/topic/architecture)
     * [Navigation](https://developer.android.com/guide/navigation)
     * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Media Projection API](https://developer.android.com/reference/android/media/projection/MediaProjectionManager)
 * [Material3 UI Components](https://m3.material.io/)
-
-## Output 🖼
-
-https://github.com/user-attachments/assets/573c7e54-76a0-4146-9d69-b99fca59daa3
-
 ## Architecture 🏗
 The app follows the **MVVM [Model-View-ViewModel]** architecture to ensure a unidirectional flow of data, separation of concerns, testability, and scalability.
 
@@ -35,11 +29,7 @@ The app follows the **MVVM [Model-View-ViewModel]** architecture to ensure a uni
 The app uses the **Media Projection API**, a built-in Android feature, for recording screens without requiring external APIs.
 
 🚀 **About Me**
-Hi! My name is **Shivangi Mundra**, and I am an enthusiastic **Android Developer** specializing in Jetpack Compose, Kotlin, and MVVM architecture.
+Hi! My name is **Payel Paul**, and I am an enthusiastic **Android Developer** specializing in Jetpack Compose, Kotlin, and MVVM architecture.
 
-If you have any questions or want to connect, feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/shivangi-mundra-9a31b65b/)
-
-Happy Coding! ✨
 
